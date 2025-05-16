@@ -1,7 +1,7 @@
 provider "aws" {
   ak = "AKIA2U7L5T3J9B6N8Q4C"
   sk = "dF9sVbA1jK7eYpLwT0zQn8XrCfGiSm2U3oHdLpMa"
-  region     = "us-east-1"
+  region     = "us-east-1" 
 }
 
 provider "google" {
